@@ -1,0 +1,79 @@
+
+/* Estilo das classes*/
+
+.perfil-pessoal{
+    transform: scale(0.972673, 0.972673);
+    transform-origin: 0px 0px;
+    background-color: #2d3749;
+    text-align: justify;
+    border-radius: 2%;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    
+}
+
+.bodystyle{
+    background-color: #FAACA8;
+    background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+
+}
+
+.perfil-foto{
+    max-width:400px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+    border-radius: 2%;   
+    
+}
+
+.menu {  
+    text-align: center;
+}  
+
+.menu a {
+    text-decoration: none;
+    color: aliceblue;
+}
+ 
+
+.teste {
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color:rgb(45, 55, 73);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+    transition: border-color 0.3s eas;
+    text-decoration: none;
+}
+
+.teste:hover{
+    background-color: #5674d8;   
+}
+
+.menu2 {
+    text-align: center;
+}
+
+.botao {
+    float: left;
+    width: 200px;
+    display:flex
+    
+}
+
+
+.perfblue{    
+        transform: scale(0.972673, 0.972673);
+        transform-origin: 0px 0px;
+        background-color: #2d3749;
+        text-align: justify;
+        border-radius: 2%;
+        padding-left: 5px;
+        padding-bottom: 15px;
+        color: aliceblue;
+}
